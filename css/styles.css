@@ -1,0 +1,133 @@
+body {
+margin: 0;
+}
+
+hr {
+  border-color: #064663;
+  width: 30%;
+}
+
+h1 {
+  color: #04293A;
+  text-align: center;
+  font-family: 'The Nautigal', cursive;
+  font-size: 400%;
+  margin: 0px auto 0px auto;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+h3 {
+  color: #04293A;
+}
+
+ul {
+  line-height: 2;
+}
+
+a {
+  box-shadow: inset 0 0 0 0 white;
+  color: #041C32;
+  margin: 10px 20px;
+  text-decoration: none;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+a:hover {
+  box-shadow: inset 100px 0 0 0 #064663;
+  color: white;
+}
+
+.Credly {
+  position: absolute;
+  margin: auto auto auto 700px;
+}
+
+.IBM_Credly_Hardware {
+  position: absolute;
+  margin: auto auto auto 1100px;
+}
+
+.Cloud_Computing_Core {
+  position: absolute;
+  margin: auto auto auto 1300px;
+}
+
+.Cybersecurity_Essentials {
+  position: absolute;
+  margin: auto auto auto 1500px;
+}
+
+.IBM_Hardware_Credly {
+  position: absolute;
+  margin: auto auto auto 1700px;
+}
+
+.IT_Cloud_Specialization {
+  position: absolute;
+  margin: auto auto auto 900px;
+}
+
+.top-container {
+  height: 100%;
+  width: auto;
+  padding: 10px;
+  position: relative;
+  background-color: #CE9461;
+}
+
+.mid-container {
+  height: 300px;
+  width: auto;
+  padding: 10px;
+  background-color: #DEA057;
+}
+
+.mid-container-2 {
+  height: auto;
+  width: auto;
+  padding: 40px;
+  background-color: #FCFFE7;
+}
+
+.bottom-container {
+  height: auto;
+  width: auto;
+  padding: 40px;
+  background-color: #E0D8B0;
+}
+
+.Pro-Photo {
+  margin-bottom: 50px;
+}
+
+#NavBar {
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Times;
+  color: #F5F5F5;
+  font-size: 20px;
+  background: #064663;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  margin-top: 240px;
+  margin-left: 30px;
+}
+
+.btn:hover {
+  background: #6D8B74;
+  text-decoration: none;
+}
+
+.Language {
+  padding-top: 115px;
+}
